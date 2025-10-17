@@ -10,7 +10,7 @@ def home():
     usuarios = [
         {"nome": "Marlon", "membro_ativo": True},
         {"nome": "João", "membro_ativo": False},
-        {"nome": "Gabriela", "membro_ativo": False},
+        {"nome": "Gabriela meu amor <3", "membro_ativo": False},
     ]
     return render_template('index.html', titulo=titulo, usuarios=usuarios)
 
