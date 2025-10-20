@@ -20,6 +20,11 @@ Entre no ambiente virtual
 .\venv_flask\Scripts\activate
 ```
 
+Instale as dependencias
+```
+pip install -r requirements.txt
+```
+
 Execute o arquivo principal
 ```
 py .\main.py
