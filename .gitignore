@@ -2,4 +2,5 @@ first_flask_project_venv/
 venv_flask/
 venv/
 __pycache__/
+*.pyc
 *.db
