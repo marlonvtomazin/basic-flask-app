@@ -7,6 +7,8 @@
 * **Templates -> Jinja2:** Renderização dinâmica do HTML.
 * **Frontend -> cru.js:** Manipulação de eventos de formulário (POST/PUT/DELETE) via AJAX para atualização do DOM (lista de clientes).
 * **Estilo -> Bootstrap:** Componentes e estilização responsiva.
+* **Banco de dados -> SQLite:** Banco de dados leve e baseado em arquivo para persistência dos dados de desenvolvimento e produção inicial.
+* **ORM -> peewee:** Mapeamento Objeto-Relacional (ORM) para definição dos modelos e manipulação do banco de dados (CRUD).
 
 Instalação e execução
 
