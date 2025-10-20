@@ -5,7 +5,7 @@
 * **Backend -> Python 3:** Linguagem principal.
 * **Framework -> Flask:** Roteamento e estrutura de aplicação web.
 * **Templates -> Jinja2:** Renderização dinâmica do HTML.
-* **Docker -> cru.js:** Manipulação de eventos de formulário (POST/PUT/DELETE) via AJAX para atualização do DOM (lista de clientes).
+* **Frontend -> cru.js:** Manipulação de eventos de formulário (POST/PUT/DELETE) via AJAX para atualização do DOM (lista de clientes).
 * **Estilo -> Bootstrap:** Componentes e estilização responsiva.
 
 Instalação e execução
